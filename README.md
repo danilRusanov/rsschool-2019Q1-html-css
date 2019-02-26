@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css
+Daniil Rusanov  
+HTML CSS Basics: https://www.codecademy.com/users/3315180405/achievements
